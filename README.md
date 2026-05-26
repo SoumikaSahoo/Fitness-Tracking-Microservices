@@ -1,6 +1,6 @@
 # Fitness-Tracking-Microservices
 
-**Java Spring Boot AI Full Stack Microservices Course: Building Fitness Application**
+
 
 Designed and developed a microservices-based backend for a fitness tracking application by splitting functionalities into independent services.
 
